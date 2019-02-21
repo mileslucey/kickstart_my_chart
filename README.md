@@ -45,6 +45,8 @@
    1. Theater is by far the most prevalent category, which leads there to be a peak in Kickstarters from May to July. However, if the Theater category is removed, January has the highest number of Kickstarters.
    ![img_1](https://user-images.githubusercontent.com/43838442/53138910-bc998b80-353c-11e9-830c-a91e223d93ea.png)
    2. Later years tend to have many more Kickstarter campaigns than earlier years do in this sample. This may be partly due to the financial crisis. This may also partly be due to the fact that Kickstarter is a relatively new company (founded in 2009).
+   ![img_2](https://user-images.githubusercontent.com/43838442/53138991-01252700-353d-11e9-8a03-deb204ee8ea0.png)
    3. While music tends to be the most successful parent category (with 77% of the sample’s Kickstarter campaigns succeeding), music also has the lowest average funding goal.
+   
 2. **What are some of the limitations of this dataset?**
 3. **What are some other possible tables/graphs that we could create?**
