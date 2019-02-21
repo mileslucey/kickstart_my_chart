@@ -42,5 +42,11 @@
   * Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 ## Report
 1. **What are three conclusions we can make about Kickstarter campaigns given the provided data?**
+   1. Theater is by far the most prevalent category, which leads there to be a peak in Kickstarters from May to July. However, if the Theater category is removed, January has the highest number of Kickstarters.
+   
+   
+   
+   2. Later years tend to have many more Kickstarter campaigns than earlier years do in this sample. This may be partly due to the financial crisis. This may also partly be due to the fact that Kickstarter is a relatively new company (founded in 2009).
+   3. While music tends to be the most successful parent category (with 77% of the sample’s Kickstarter campaigns succeeding), music also has the lowest average funding goal.
 2. **What are some of the limitations of this dataset?**
 3. **What are some other possible tables/graphs that we could create?**
