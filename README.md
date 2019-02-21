@@ -36,4 +36,4 @@
   * Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within those ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with this data.
   * Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column.
   * Then, using a mathematic formulae, find the percentage of projects which were successful, failed, or were canceled per goal range.
-Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
+  * Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
