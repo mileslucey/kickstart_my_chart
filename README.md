@@ -40,3 +40,7 @@
   * Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column.
   * Then, using a mathematic formulae, find the percentage of projects which were successful, failed, or were canceled per goal range.
   * Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
+## Report
+1. **What are three conclusions we can make about Kickstarter campaigns given the provided data?**
+2. **What are some of the limitations of this dataset?**
+3. **What are some other possible tables/graphs that we could create?**
