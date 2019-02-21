@@ -51,7 +51,8 @@
    ![img_3](https://user-images.githubusercontent.com/43838442/53139090-5d884680-353d-11e9-82be-0bb6a331b8a3.png)
    ![img_4](https://user-images.githubusercontent.com/43838442/53139095-5feaa080-353d-11e9-9a82-6ec32c877be6.png)
 2. **What are some of the limitations of this dataset?**
- There is evidence that this sample does not fully represent the population of Kickstarter campaigns. For example, the assignment’s instructions mention that only a third of Kickstarter campaigns make it through funding with positive outcomes, but this database shows that more than half of the programs selected are successful. Additionally, this sample includes quite a few Theater Kickstarter campaigns, but Kickstarter’s website does not identify Theater as the most common category.
+
+There is evidence that this sample does not fully represent the population of Kickstarter campaigns. For example, the assignment’s instructions mention that only a third of Kickstarter campaigns make it through funding with positive outcomes, but this database shows that more than half of the programs selected are successful. Additionally, this sample includes quite a few Theater Kickstarter campaigns, but Kickstarter’s website does not identify Theater as the most common category.
 
 There are not any metrics that describe the success of each industry/category/sub-category as a whole during the covered time period. It would be helpful to have data that shows whether or not each industry/category/subcategory does well or poorly during the relevant time periods. This might help us account for external factors while analyzing the data.
 
